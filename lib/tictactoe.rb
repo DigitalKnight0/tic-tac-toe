@@ -125,5 +125,5 @@ class Tictactoe
   end
 end
 
-# myGame = Game.new
-# myGame.play
+ myGame = Tictactoe.new
+ myGame.play
